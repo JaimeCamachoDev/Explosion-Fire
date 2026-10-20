@@ -10,35 +10,30 @@
 
 _**Particle System in Unity 6 URP, Explosion**_
 
-
 </header>
    
-<footer>
-   
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
-
-</footer>
-
 
 https://www.youtube.com/watch?v=uNzLQjpg6UE&t=424s
 
 https://www.youtube.com/watch?v=DKVdg8DsIVY&t=342s
 
 https://realtimevfx.com/t/6-way-lightmap-wip/5457
+
+## Requisitos
+
+* Unity **6000.3.10f1**
+* Render Pipeline: Universal Render Pipeline (URP)
+* Paquetes: Visual Effect Graph, Shader Graph
+* Assets de terceros incluidos (no redistribuibles): Hovl Studio, NatureManufacture Assets, VFXPACK_FIRE_WALLCOEUR
+
+## Contenido
+
+* **VFX Graph:** `Bonfire 7Wonders`, `Explosion VFX`, `FireCandle`, `FireVFX`, `Ground-Explosion VFX`
+* **Prefabs:** `Bonfire_7Wonders_Pyramid`, `Explosion VFX`, `FireCandle`, `FireVFX`, `Ground-Explosion VFX`, `Jet flames `, `Jet flames Space Marine`
+* **Escenas:** `Assets/3-Scenes/Explosion.unity`, `Assets/3-Scenes/Fire.unity`, `Assets/3-Scenes/FireworkDemo_P 1.unity`, `Assets/3-Scenes/Main.unity`
+
+## Uso
+
+1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
+2. Ábrelo con Unity **6000.3.10f1**.
+3. Abre la escena `Assets/3-Scenes/Explosion.unity` y pulsa **Play**.
