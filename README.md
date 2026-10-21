@@ -28,9 +28,16 @@ https://realtimevfx.com/t/6-way-lightmap-wip/5457
 
 ## Contenido
 
-* **VFX Graph:** `Bonfire 7Wonders`, `Explosion VFX`, `FireCandle`, `FireVFX`, `Ground-Explosion VFX`
-* **Prefabs:** `Bonfire_7Wonders_Pyramid`, `Explosion VFX`, `FireCandle`, `FireVFX`, `Ground-Explosion VFX`, `Jet flames `, `Jet flames Space Marine`
-* **Escenas:** `Assets/3-Scenes/Explosion.unity`, `Assets/3-Scenes/Fire.unity`, `Assets/3-Scenes/FireworkDemo_P 1.unity`, `Assets/3-Scenes/Main.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Air-Explosion** | 1 | — | — | — | 1 | — |
+| **Fire** | 3 | — | — | — | 3 | — |
+| **Ground-Explosion** | 1 | — | — | — | 1 | — |
+| **JetFire** | — | — | — | — | 2 | 2 |
+
+**Escenas de demostración:** `Assets/3-Scenes/Explosion.unity`, `Assets/3-Scenes/Fire.unity`, `Assets/3-Scenes/FireworkDemo_P 1.unity`, `Assets/3-Scenes/Main.unity`
 
 ## Uso
 
